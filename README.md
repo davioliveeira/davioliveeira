@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/davioliveeira">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=davioliveeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveeira&layout=compact&langs_count=7&theme=radical"/>
+  <div align="center">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=davioliveeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveeira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <div style="display: inline_block"><br>
