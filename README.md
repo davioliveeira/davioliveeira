@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/davioliveeira">
   <div align="center">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=davioliveeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=davioliveeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="142,5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveeira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
