@@ -1,8 +1,8 @@
 ### Olá! Me chamo Davi Oliveira 👋
 
 
-- 🔭 Hoje trabalho com Qualidade de Software.
-- 🌱 Estudando sobre desenvolvimento e criação de Testes Automatizados.
+- 🔭 Software Quality Engineer.
+- 🌱Studying the creation and development of Automated Tests.
 
 <div align="center">
   <a href="https://github.com/davioliveeira">
