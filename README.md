@@ -28,9 +28,11 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
   ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  # 🐍 Commit Snake Game 
+  ![Snake animation](https://github.com/davioliveeira/davioliveeira/blob/output/github-contribution-grid-snake.svg) 
+
 </div>
